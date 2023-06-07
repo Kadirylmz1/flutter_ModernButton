@@ -2,7 +2,7 @@
 Modern Bottom Nav Bar Flutter Tutorial 
 
 
-Giresun Üniversitesi Şebinkarahisar MyO.
+Giresun Üniversitesi Şebinkarahisar MYO.
 
 
 Kadir Yılmaz
